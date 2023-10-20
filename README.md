@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @matthew.R.ellwood
 - 👀 I’m interested in coding, R scripts and Data Analysis
-- 🌱 I’m currently learning R, SQL, Data Analytics, Python, Git
-- 💞️ I’m looking to collaborate on anything R
+- I’m currently learning Machine Learning and A.I. at MIT.
+- 🌱 I have studied SQL, Data Analytics, Python, and Git at Harvard
+- and Data Analysis with 'R' at Google through 'Coursera'
+- 💞️ I’m looking to collaborate on anything in Data Science
 - 📫 How to reach me drop a message inthe usual way
 - https://matthewellwood.github.io/matthewRellwood.github.io/#
 - https://matthewellwood.github.io/MatthewR/
