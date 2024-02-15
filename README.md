@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matthew.R.ellwood
-- 👀 I’m interested in coding, R scripts and Data Analysis
+- 👀 I’m interested in coding, R scripts and Data Analysis, Data Science
 - I’m currently learning Machine Learning and A.I. at MIT.
 - 🌱 I have studied SQL, Data Analytics, Python, and Git at Harvard
 - and Data Analysis with 'R' at Google through 'Coursera'
