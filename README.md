@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matthew.R.ellwood
 - 👀 I’m interested in coding, R scripts and Data Analysis, Data Science
-- I’m currently learning Machine Learning and A.I. at MIT.
+- I have completed a course at MIT on Machine Learning and A.I.
 - 🌱 I have studied SQL, Data Analytics, Python, and Git at Harvard
 - and Data Analysis with 'R' at Google through 'Coursera'
 - 💞️ I’m looking to collaborate on anything in Data Science
